@@ -1,0 +1,12 @@
+type phone_bst =
+   |EmptyLeaf
+   |TreeNode of string * string * phone_bst * phone_bst
+   
+val empty_tree: phone_bst
+val add_contact: phone_bst -> string -> string -> phone_bst
+val list_alphabetical: phone_bst -> string * string list
+val get_contact: phone_bst -> string -> string * string
+
+
+
+   

@@ -1,0 +1,7 @@
+"Resource: /home/edcortes40/personalProjects/personalPhonebook/phonebook.ml": "<v\198\137,^\227D`Sr\012\195\136\146\236"
+"Rule: ocaml dependencies ml (%=phonebook )": "\021B9F\245\192\016\138\238\247\204\020\022<\141\237"
+"Rule: ocaml: mli -> cmi (%=phonebook )": "L\216\255\164\218i\144\134\216\025\192V\177\242\141\226"
+"Rule: ocaml: ml & cmi -> cmx & o (%=phonebook )": "\132\015x{\214\014Lw\192`\233\195\251\016\180\130"
+"Rule: ocaml dependencies mli (%=phonebook )": "\213\213~S\140 \188Q\017A\235\018k\142\148\205"
+"Resource: /home/edcortes40/personalProjects/personalPhonebook/phonebook.mli": "\139\133\150d\003F\023n\150\022\n\015]\024A."
+"Rule: ocaml: cmx* & o* -> native (%=phonebook )": "\179-\217\215\129\214B\150\241+\175\144\133t\143\234"

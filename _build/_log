@@ -1,0 +1,10 @@
+### Starting build.
+# Target: phonebook.ml.depends, tags: { extension:ml, file:phonebook.ml, ocaml, ocamldep, quiet }
+/home/edcortes40/.opam/4.11.0/bin/ocamldep.opt -modules phonebook.ml > phonebook.ml.depends
++ /home/edcortes40/.opam/4.11.0/bin/ocamldep.opt -modules phonebook.ml > phonebook.ml.depends
+File "phonebook.ml", line 8, characters 0-2:
+8 | (*adds a contact node to the phonebook binary search tree)
+    ^^
+Error: Comment not terminated
+Command exited with code 2.
+# Compilation unsuccessful.
