@@ -5,7 +5,7 @@ type phone_bst =
 
 let empty_tree = EmptyLeaf
 
-(*adds a contact node to the phonebook binary search tree)
+(*adds a contact node to the phonebook binary search tree*)
 let rec add_contact tree contact number =
    match tree with
    |EmptyLeaf -> TreeNode(contact, number, EmptyLeaf, EmptyLeaf)
